@@ -1,0 +1,8 @@
+{
+  "servers": [
+    {
+      "name": "my",
+      "address": "https://side.uyuange.eu.org"
+    }
+  ]
+}
